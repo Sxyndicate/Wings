@@ -1,0 +1,21 @@
+[
+    {
+      "idNumber": "1234567890123",
+      "passportNumber": "A12345678",
+      "invoiceNumber": "INV001",
+      "name": "John Doe",
+      "surname": "Doe",
+      "hospitalName": "General Hospital",
+      "cemeteryName": "Sunset Cemetery",
+      "informant": "Jane Doe",
+      "coffinType": "Oak Wood",
+      "dateOfBirth": "1970-01-01",
+      "dateOfDeparture": "2024-01-01",
+      "dateOfBurial": "2024-01-07",
+      "coffinSpray": "Roses and Lilies",
+      "graveMarker": "Granite Headstone",
+      "invoiceNumber": "INV001"
+    }
+    
+  ]
+  
